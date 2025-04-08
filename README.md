@@ -22,7 +22,8 @@ I love building AI tools that solve real-world problems.
 
 <!-- Fan GIF -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw0wSorPKgrC3yjaUu2BxsOX&ust=1744203588582000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj03ey-yIwDFQAAAAAdAAAAABAv" alt="Fan GIF" width="300px" />
+  <img src="![image](https://github.com/user-attachments/assets/88c3edcf-dc85-44d2-a9cb-e372077a3370)
+" alt="Fan GIF" width="300px" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
