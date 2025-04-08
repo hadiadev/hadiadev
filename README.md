@@ -20,10 +20,9 @@ I love building AI tools that solve real-world problems.
 - 
 - ⚡ Fun fact: I explain complex tech in easy and fun ways
 
-<!-- Fan GIF -->
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/88c3edcf-dc85-44d2-a9cb-e372077a3370)
-" alt="Fan GIF" width="300px" />
+<p align="right">
+  <img src="![image](https://github.com/user-attachments/assets/9d40cefc-9619-40c9-b6ee-83e390766e41)
+" width="400px" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
