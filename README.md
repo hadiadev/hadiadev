@@ -23,7 +23,7 @@ I love building AI tools that solve real-world problems.
 
 <!-- Banner Image -->
 <p align="right">
-  <img src="https://github.com/hadiadev/login-ui-flutter-/blob/main/4babd5fb-94a3-404c-accc-98795131b33e.jpeg" width="50%" />
+  <img src="https://github.com/hadiadev/login-ui-flutter-/blob/main/4babd5fb-94a3-404c-accc-98795131b33e.jpeg" width="30%" />
 </p>
 
 
