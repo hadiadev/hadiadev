@@ -81,7 +81,7 @@ Automation + Creativity → Real-world impact.
 
 🚧 Currently Building
 
-ROBO SURGE ⚡ — my automation mini-agency
+ROBO SURGE ⚡ my automation mini-agency
 
 AI Ad Generation for businesses
 
