@@ -4,11 +4,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Hadia</h1>
-<h3 align="center">A passionate Python Developer, AI Experimenter from pakistan</h3>
-
-👋 Hi, I'm Hadia
-AI Automation Builder | creating Generative AI assets | love tech content creation 
+<h1 align="center">👋 Hi, I'm Hadia
+<h3 align="center">AI Automation Builder | creating Generative AI assets | love tech content creation 
 
 Welcome to my GitHub where AI meets creativity, automation meets business, and ideas turn into real tools.
 
