@@ -5,7 +5,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Hadia
-<h3 align="center">AI Automation Builder | creating Generative AI assets | love tech content creation 
+AI Automation Builder | creating Generative AI assets | love tech content creation 
 
 Welcome to my GitHub where AI meets creativity, automation meets business, and ideas turn into real tools.
 
